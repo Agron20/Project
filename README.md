@@ -1,2 +1,2 @@
 # Project
-A smart home security camera to detect the person, on Raspberry Pi
+A smart security camera to detect the person, built with Raspberry Pi.
